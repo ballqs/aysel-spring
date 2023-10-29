@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+D:\workspace\aysel-spring\.metadata\.plugins\org.eclipse.jdt.core
